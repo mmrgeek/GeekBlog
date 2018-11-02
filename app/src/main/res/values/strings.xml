@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Geek Blog</string>
+    <string name="register"><p><u>don\'t have account</u></p></string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
